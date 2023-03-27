@@ -7,7 +7,7 @@ The data set consists of 487 samples, each of which contains the following infor
 * Earthquake
 * Borehole
 * Fault Type
-* Moment Magnitude of Earthquake (Mw)
+* Moment Magnitude of Earthquake (M<sub>w</sub>)
 * Peak Ground Acceleration (PGA)
 * Peak Ground Velocity (PGV)
 * PGV<sup>2</sup>/PGA

@@ -10,7 +10,7 @@ The data set consists of 487 samples, each of which contains the following infor
 * Moment Magnitude of Earthquake (Mw)
 * Peak Ground Acceleration (PGA)
 * Peak Groun Velocity (PGV)
-* PGV^2/PGA
+* PGV<sup>2</sup>/PGA
 * lnIa
 * lnCAV5
 * Distance from Energy Source in kilometer (R)

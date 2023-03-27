@@ -9,7 +9,7 @@ The data set consists of 487 samples, each of which contains the following infor
 * Fault Type
 * Moment Magnitude of Earthquake (Mw)
 * Peak Ground Acceleration (PGA)
-* Peak Groun Velocity (PGV)
+* Peak Ground Velocity (PGV)
 * PGV<sup>2</sup>/PGA
 * Natural logarithm of Arias Intensity (lnI<sub>a</sub>)
 * lnCAV<sub>5</sub>

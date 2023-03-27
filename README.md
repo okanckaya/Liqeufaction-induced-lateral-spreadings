@@ -12,18 +12,17 @@ The data set consists of 487 samples, each of which contains the following infor
 * Peak Groun Velocity (PGV)
 * PGV<sup>2</sup>/PGA
 * lnIa
-* lnCAV5
+* lnCAV<sub>5</sub>
 * Distance from Energy Source in kilometer (R)
 * Modified distance from Energy Source for Youd et al. 2002 (R*)
 * Log_LSI
 * Surface slope (S)
-* W
-* T15
-* NT
-* FC15
-* D5015
-* zcr
-* Vs
+* Free-face Ratio (W)
+* Thickness of Liquefiable Soil Layers with SPT-N<sub>1,60</sub> Lower than 15 (T<sub>15</sub>)
+* Non-liquefiable Crust Thickness (CT)
+* Fine Content of Soil Layers with SPT-N<sub>1,60</sub> Lower than 15 (FC<sub>15</sub>)
+* Mean Particle Diameter of Soil Layers with SPT-N<sub>1,60</sub> Lower than 15 (D50<sub>15</sub>)
+* Depth of Most Critical Soil Layer (z<sub>cr</sub>)
+* Shear vawe velocity (V<sub>s</sub>)
 * Observation
 * Reference
-

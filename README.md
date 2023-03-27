@@ -1,6 +1,6 @@
 # Liqeufaction-induced-lateral-spreadings
 
-This repository contains the data set used in the study titled "Use of Velocity-Based Intensity Measures for Prediction of Lateral Displacements by Artificial Neural Networks" presented at Geocongress 2023. The data set was created by developing the surface slope and free-face ratio values in the data set presented in Çetinkaya (2022) with the digital elevation model.
+This repository contains the data set used in the study titled "Use of Velocity-Based Intensity Measures for Prediction of Lateral Displacements by Artificial Neural Networks" presented at [Geo-Congress 2023]([url](https://www.geocongress.org/)). The data set was created by developing the surface slope and free-face ratio values in the data set presented in Çetinkaya (2022) with the digital elevation model.
 
 The data set consists of 487 samples, each of which contains the following information:
 

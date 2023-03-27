@@ -11,11 +11,11 @@ The data set consists of 487 samples, each of which contains the following infor
 * Peak Ground Acceleration (PGA)
 * Peak Groun Velocity (PGV)
 * PGV<sup>2</sup>/PGA
-* lnIa
+* Natural logarithm of Arias Intensity (lnI<sub>a</sub>)
 * lnCAV<sub>5</sub>
 * Distance from Energy Source in kilometer (R)
 * Modified distance from Energy Source for Youd et al. 2002 (R*)
-* Log_LSI
+* Log of Liquefaction Severity Index (logLSI)
 * Surface slope (S)
 * Free-face Ratio (W)
 * Thickness of Liquefiable Soil Layers with SPT-N<sub>1,60</sub> Lower than 15 (T<sub>15</sub>)

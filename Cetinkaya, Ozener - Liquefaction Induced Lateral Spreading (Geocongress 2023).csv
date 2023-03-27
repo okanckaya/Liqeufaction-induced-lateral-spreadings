@@ -1,4 +1,4 @@
-Earthquake,Borehole,Fault Type,Mw,PGA,PGV,PGV2/PGA,lnIa,lnCAV5,R,R_star,Log_LSI,S,W,T15,NT,FC15,D5015,zcr,Vs,Observation,Reference
+Earthquake,Borehole,Fault_Type,Mw,PGA,PGV,PGV2/PGA,lnIa,lnCAV5,R,R_star,Log_LSI,S,W,T15,NT,FC15,D5015,zcr,Vs,Observation,Reference
 Alaska (1964),Alaska_1A,Reverse,9.2,0.39,90.94,21.62,,19.75,35,388.18,1.92,0.1,0,20,0,20.33,0.17,11.74,153,244,"Hasançebi, Si (2000)"
 Alaska (1964),Alaska_2,Reverse,9.2,0.31,82.76,22.53,,20.29,60,413.18,1.48,0.05,48.98,0,8.98,0,0,16.82,153,191,"Hasançebi, Si (2000)"
 Alaska (1964),Alaska_4,Reverse,9.2,0.31,82.76,22.53,,20.29,60,413.18,1.48,0.2,24.59,3.13,1.22,18.5,0.11,1.22,186,185,"Hasançebi, Si (2000)"
